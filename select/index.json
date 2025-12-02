@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "テレキャスター・ストライプ",
+  "base_artist": "POLKADOT STINGRAY",
+  "createdAt": "2025-12-02T16:00:22.088827Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ - 全知全能 ver.",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_テレキャスター・ストライプ_-_全知全能_ver._Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ (全知全能 ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/02_テレキャスター・ストライプ_(全知全能_ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/03_テレキャスター・ストライプ_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Telecaster Stripe (Zenchi Zennou ver.) [テレキャスター・ストライプ (全知全能 ver.)]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/04_Telecaster_Stripe_(Zenchi_Zennou_ver.)_[テレキャスター・ストライプ_(全知全能_ver.)]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Telecaster Stripes [テレキャスター・ストライプ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/05_Telecaster_Stripes_[テレキャスター・ストライプ]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/06_テレキャスター・ストライプ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/07_テレキャスター・ストライプ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/08_テレキャスター・ストライプ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ（全知全能 Ver.）",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/09_テレキャスター・ストライプ(全知全能_Ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/10_テレキャスター・ストライプ_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/11_テレキャスター・ストライプ_ポルカドットスティングレイ_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "テレキャスター・ストライプ - TELECASTER STRIPE",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/12_テレキャスター・ストライプ_-_TELECASTER_STRIPE_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_テレキャスター・ストライプ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_テレキャスター・ストライプ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "テレキャスター・ストライプ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_03_テレキャスター・ストライプ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "テレキャスター・ストライプ(全知全能 ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_04_テレキャスター・ストライプ(全知全能_ver.)_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
